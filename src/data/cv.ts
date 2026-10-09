@@ -4,7 +4,7 @@
 export type Lang = 'pt' | 'en';
 
 export const contact = {
-  name: 'Izabela Neves',
+  name: 'Izabela Dutra Neves',
   nameKr: '이자벨라',
   // Único canal de contato público: e-mail e telefone não ficam expostos no site.
   linkedin: 'https://www.linkedin.com/in/izabela-dutra-neves-39347537a',
@@ -13,9 +13,9 @@ export const contact = {
 
 const pt = {
   meta: {
-    title: 'Izabela Neves — Comunicação internacional, inglês e coreano',
+    title: 'Izabela Dutra Neves — Comunicação internacional, inglês e coreano',
     description:
-      'Currículo de Izabela Neves: inglês fluente (TOEFL 110/120), coreano TOPIK 4, vivência nos EUA e na Coreia do Sul e experiência em marketing digital. Belo Horizonte, MG.',
+      'Currículo de Izabela Dutra Neves: inglês fluente (TOEFL 110/120), coreano TOPIK 4, vivência nos EUA e na Coreia do Sul e experiência em marketing digital. Belo Horizonte, MG.',
   },
   nav: { about: 'Perfil', experience: 'Experiência', languages: 'Idiomas', education: 'Formação', contact: 'Contato', switch: 'EN', switchHref: '/en/', print: 'Baixar PDF' },
   hero: {
@@ -148,9 +148,9 @@ const pt = {
 
 const en: typeof pt = {
   meta: {
-    title: 'Izabela Neves — International communication, English and Korean',
+    title: 'Izabela Dutra Neves — International communication, English and Korean',
     description:
-      'Résumé of Izabela Neves: fluent English (TOEFL 110/120), Korean TOPIK 4, experience living in the US and South Korea, and hands-on digital marketing. Belo Horizonte, Brazil.',
+      'Résumé of Izabela Dutra Neves: fluent English (TOEFL 110/120), Korean TOPIK 4, experience living in the US and South Korea, and hands-on digital marketing. Belo Horizonte, Brazil.',
   },
   nav: { about: 'Profile', experience: 'Experience', languages: 'Languages', education: 'Education', contact: 'Contact', switch: 'PT', switchHref: '/', print: 'Download PDF' },
   hero: {

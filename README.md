@@ -1,4 +1,4 @@
-# Currículo online — Izabela Neves
+# Currículo online — Izabela Dutra Neves
 
 Landing page do currículo em **Astro + Tailwind CSS 4**, em português (`/`) e inglês (`/en/`).
 
