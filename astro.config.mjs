@@ -3,8 +3,8 @@ import { defineConfig } from 'astro/config';
 import tailwindcss from '@tailwindcss/vite';
 
 export default defineConfig({
-  site: 'https://mateusneves.github.io',
-  base: '/izabela-neves-cv',
+  site: 'https://izabela-dneves.github.io',
+  base: '/curriculo',
   build: { inlineStylesheets: 'always' },
   vite: { plugins: [tailwindcss()] },
 });
