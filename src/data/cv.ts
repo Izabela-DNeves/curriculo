@@ -20,7 +20,7 @@ const pt = {
   nav: { about: 'Perfil', experience: 'Experiência', languages: 'Idiomas', education: 'Formação', contact: 'Contato', switch: 'EN', switchHref: '/en/', print: 'Baixar PDF' },
   hero: {
     eyebrow: 'Relações internacionais · Marketing · Comunicação',
-    headline: 'Conectando pessoas, culturas e marcas em três idiomas.',
+    headline: 'Em busca de uma oportunidade de estágio para aprender e contribuir.',
     intro:
       'Tenho 20 anos, inglês fluente, coreano intermediário-avançado e mais de um ano vivendo nos Estados Unidos e na Coreia do Sul. Estou me preparando para cursar Relações Internacionais no exterior e busco, em Belo Horizonte, uma empresa com atuação internacional para começar a construir minha carreira.',
     ctaPrimary: 'Entrar em contato',
@@ -155,7 +155,7 @@ const en: typeof pt = {
   nav: { about: 'Profile', experience: 'Experience', languages: 'Languages', education: 'Education', contact: 'Contact', switch: 'PT', switchHref: '/', print: 'Download PDF' },
   hero: {
     eyebrow: 'International relations · Marketing · Communication',
-    headline: 'Connecting people, cultures and brands in three languages.',
+    headline: 'Seeking an internship to learn and contribute.',
     intro:
       'I am 20, fluent in English, upper-intermediate in Korean, and have spent more than a year living in the United States and South Korea. While I apply to study International Relations abroad, I am looking for a company with international operations in Belo Horizonte to start building my career.',
     ctaPrimary: 'Get in touch',
